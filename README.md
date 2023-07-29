@@ -1,4 +1,4 @@
-# Print Screen Saver to a folder
+# Print Screen ScreenShot Saver to a folder
 
 Listens to the keyboard<br>
 On PrtScreen release makes screenshot and saves it into folder<br>
